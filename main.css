@@ -20,8 +20,7 @@ form {
 }
 
 div {
-    margin-left: 42%;
-    margin-right: 50%
+    margin-left: 40%;
 }
 
 .finalizada {
@@ -29,6 +28,7 @@ div {
 }
 
 button {
+    margin: 16px;
     background-color: rgb(4, 167, 40);
     padding: 4px;
     border: none; /*Remover borda*/
