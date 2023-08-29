@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+}
+
+header {
+    background-color: rgb(128, 126, 241);
+    padding: 16px 0;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    font-style: italic;
+    border-bottom: 16px solid rgb(48, 46, 185);
+}
+
+form {
+    text-align: center;
+}
+
+div {
+    margin-left: 42%;
+    margin-right: 50%
+}
+
+.finalizada {
+    text-decoration: line-through
+}
+
+button {
+    background-color: rgb(4, 167, 40);
+    padding: 4px;
+    border: none; /*Remover borda*/
+    cursor: pointer; /*Botão clicavel*/
+    font-weight: bold; /*Colocar o texto e negrito*/
+    color: white;
+}
